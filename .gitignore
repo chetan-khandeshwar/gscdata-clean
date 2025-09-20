@@ -1,0 +1,43 @@
+<<<<<<< HEAD
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+
+# Logs
+*.log
+
+# Virtual environments
+.venv/
+venv/
+
+# Environment variables
+.env
+
+# VSCode/IDE
+.vscode/
+.idea/
+
+# Mac/Windows system files
+.DS_Store
+Thumbs.dbtoken.json 
+=======
+# Ignore virtual environment
+.venv/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore secrets and tokens
+client_secret.json
+.streamlit/secrets.toml
+token_*.json
+>>>>>>> 368c19b (Initial commit for Streamlit GSC app)
+"client_secret.json" 
+"token_*.json" 
+"client_secret.json" 
+"token_*.json" 
+"client_secret.json" 
+"token_*.json" 
+"client_secret.json" 
+"token_*.json" 
